@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1eaf9a7f-04f8-4720-97d1-f5de3a6bbda3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mNUB7nEw84F9Nea99gxInyx4ES" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wblee\PycharmProjects\study" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.real_estate_analy">
+    <configuration name="processing_csvfile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/processing_csvfile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="real_estate_analy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/real_estate_analy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="script_slice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script_slice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seoul_pop_analy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\wblee\PycharmProjects\study\seoul_pop_analy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.real_estate_analy" />
+        <item itemvalue="Python.seoul_pop_analy" />
+        <item itemvalue="Python.processing_csvfile" />
+        <item itemvalue="Python.script_slice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1eaf9a7f-04f8-4720-97d1-f5de3a6bbda3" name="Default Changelist" comment="" />
+      <created>1609333403908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609333403908</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="442" height="438" key="DebuggerActiveHint" timestamp="1609399351634">
+      <screen x="1920" y="293" width="1366" height="728" />
+    </state>
+    <state width="442" height="438" key="DebuggerActiveHint/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609399351634" />
+    <state x="2325" y="530" key="FileChooserDialogImpl" timestamp="1609333592572">
+      <screen x="1920" y="293" width="1366" height="728" />
+    </state>
+    <state x="2325" y="530" key="FileChooserDialogImpl/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609333592572" />
+    <state x="3606" y="-163" key="FileChooserDialogImpl/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@3286.-857.1080.1880" timestamp="1609333421907" />
+    <state width="1323" height="198" key="GridCell.Tab.0.bottom" timestamp="1609445860614">
+      <screen x="1920" y="293" width="1366" height="728" />
+    </state>
+    <state width="1323" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609445860614" />
+    <state width="1323" height="198" key="GridCell.Tab.0.center" timestamp="1609445860614">
+      <screen x="1920" y="293" width="1366" height="728" />
+    </state>
+    <state width="1323" height="198" key="GridCell.Tab.0.center/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609445860614" />
+    <state width="1323" height="198" key="GridCell.Tab.0.left" timestamp="1609445860613">
+      <screen x="1920" y="293" width="1366" height="728" />
+    </state>
+    <state width="1323" height="198" key="GridCell.Tab.0.left/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609445860613" />
+    <state width="1323" height="198" key="GridCell.Tab.0.right" timestamp="1609445860614">
+      <screen x="1920" y="293" width="1366" height="728" />
+    </state>
+    <state width="1323" height="198" key="GridCell.Tab.0.right/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609445860614" />
+    <state width="481" height="374" key="GridCell.Tab.1.bottom" timestamp="1609445860600">
+      <screen x="1920" y="293" width="1366" height="728" />
+    </state>
+    <state width="481" height="374" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609445860600" />
+    <state width="481" height="374" key="GridCell.Tab.1.center" timestamp="1609445860600">
+      <screen x="1920" y="293" width="1366" height="728" />
+    </state>
+    <state width="481" height="374" key="GridCell.Tab.1.center/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609445860600" />
+    <state width="481" height="374" key="GridCell.Tab.1.left" timestamp="1609445860600">
+      <screen x="1920" y="293" width="1366" height="728" />
+    </state>
+    <state width="481" height="374" key="GridCell.Tab.1.left/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609445860600" />
+    <state width="481" height="374" key="GridCell.Tab.1.right" timestamp="1609445860600">
+      <screen x="1920" y="293" width="1366" height="728" />
+    </state>
+    <state width="481" height="374" key="GridCell.Tab.1.right/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609445860600" />
+    <state x="1972" y="309" key="SettingsEditor" timestamp="1609374049991">
+      <screen x="1920" y="293" width="1366" height="728" />
+    </state>
+    <state x="1972" y="309" key="SettingsEditor/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609374049991" />
+    <state x="3327" y="-273" key="SettingsEditor/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@3286.-857.1080.1880" timestamp="1609333508568" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1609399340418">
+      <screen x="1920" y="293" width="1366" height="728" />
+    </state>
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609399340418" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/script_slice.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="script101" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
