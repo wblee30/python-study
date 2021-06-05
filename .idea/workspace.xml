@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eaf9a7f-04f8-4720-97d1-f5de3a6bbda3" name="Default Changelist" comment="" />
+    <list default="true" id="1eaf9a7f-04f8-4720-97d1-f5de3a6bbda3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BusinessAnalze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataFrameAptAnalyze.csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataFrameStudy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataFrameSurvey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Korean_English.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuestPreprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RealEstateAnalyze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpyStudy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/usecsv.py" beforeDir="false" afterPath="$PROJECT_DIR$/library/usecsv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processing_csvfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/Processing_CsvFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/real_estate_analy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script_slice.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptSlice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seoul_pop_analy.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeoulPopAnalyze.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text.py" beforeDir="false" afterPath="$PROJECT_DIR$/Text.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +49,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1mNUB7nEw84F9Nea99gxInyx4ES" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,16 +67,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\wblee\PycharmProjects\study" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.real_estate_analy">
-    <configuration name="processing_csvfile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.DataFrameSurvey">
+    <configuration name="DataAnalysisPRN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -42,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/processing_csvfile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataAnalysisPRN.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -51,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="real_estate_analy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DataFrameAptAnalyze.csv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/real_estate_analy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataFrameAptAnalyze.csv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="script_slice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DataFrameStudy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script_slice.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\wblee\PycharmProjects\study\DataFrameStudy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="seoul_pop_analy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DataFrameSurvey" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +152,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\wblee\PycharmProjects\study\seoul_pop_analy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataFrameSurvey.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RealEstateAnalyze" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RealEstateAnalyze.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,10 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.real_estate_analy" />
-        <item itemvalue="Python.seoul_pop_analy" />
-        <item itemvalue="Python.processing_csvfile" />
-        <item itemvalue="Python.script_slice" />
+        <item itemvalue="Python.DataFrameSurvey" />
+        <item itemvalue="Python.DataAnalysisPRN" />
+        <item itemvalue="Python.DataFrameAptAnalyze.csv" />
+        <item itemvalue="Python.RealEstateAnalyze" />
+        <item itemvalue="Python.DataFrameStudy" />
       </list>
     </recent_temporary>
   </component>
@@ -134,65 +203,30 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state width="442" height="438" key="DebuggerActiveHint" timestamp="1609399351634">
-      <screen x="1920" y="293" width="1366" height="728" />
-    </state>
-    <state width="442" height="438" key="DebuggerActiveHint/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609399351634" />
-    <state x="2325" y="530" key="FileChooserDialogImpl" timestamp="1609333592572">
-      <screen x="1920" y="293" width="1366" height="728" />
-    </state>
-    <state x="2325" y="530" key="FileChooserDialogImpl/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609333592572" />
-    <state x="3606" y="-163" key="FileChooserDialogImpl/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@3286.-857.1080.1880" timestamp="1609333421907" />
-    <state width="1323" height="198" key="GridCell.Tab.0.bottom" timestamp="1609445860614">
-      <screen x="1920" y="293" width="1366" height="728" />
-    </state>
-    <state width="1323" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609445860614" />
-    <state width="1323" height="198" key="GridCell.Tab.0.center" timestamp="1609445860614">
-      <screen x="1920" y="293" width="1366" height="728" />
-    </state>
-    <state width="1323" height="198" key="GridCell.Tab.0.center/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609445860614" />
-    <state width="1323" height="198" key="GridCell.Tab.0.left" timestamp="1609445860613">
-      <screen x="1920" y="293" width="1366" height="728" />
-    </state>
-    <state width="1323" height="198" key="GridCell.Tab.0.left/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609445860613" />
-    <state width="1323" height="198" key="GridCell.Tab.0.right" timestamp="1609445860614">
-      <screen x="1920" y="293" width="1366" height="728" />
-    </state>
-    <state width="1323" height="198" key="GridCell.Tab.0.right/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609445860614" />
-    <state width="481" height="374" key="GridCell.Tab.1.bottom" timestamp="1609445860600">
-      <screen x="1920" y="293" width="1366" height="728" />
-    </state>
-    <state width="481" height="374" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609445860600" />
-    <state width="481" height="374" key="GridCell.Tab.1.center" timestamp="1609445860600">
-      <screen x="1920" y="293" width="1366" height="728" />
-    </state>
-    <state width="481" height="374" key="GridCell.Tab.1.center/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609445860600" />
-    <state width="481" height="374" key="GridCell.Tab.1.left" timestamp="1609445860600">
-      <screen x="1920" y="293" width="1366" height="728" />
-    </state>
-    <state width="481" height="374" key="GridCell.Tab.1.left/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609445860600" />
-    <state width="481" height="374" key="GridCell.Tab.1.right" timestamp="1609445860600">
-      <screen x="1920" y="293" width="1366" height="728" />
-    </state>
-    <state width="481" height="374" key="GridCell.Tab.1.right/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609445860600" />
-    <state x="1972" y="309" key="SettingsEditor" timestamp="1609374049991">
-      <screen x="1920" y="293" width="1366" height="728" />
-    </state>
-    <state x="1972" y="309" key="SettingsEditor/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609374049991" />
-    <state x="3327" y="-273" key="SettingsEditor/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@3286.-857.1080.1880" timestamp="1609333508568" />
-    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1609399340418">
-      <screen x="1920" y="293" width="1366" height="728" />
-    </state>
-    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1536.824/1920.293.1366.728/3286.-857.1080.1880@1920.293.1366.728" timestamp="1609399340418" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/script_slice.py</url>
+          <url>file://$PROJECT_DIR$/ScriptSlice.py</url>
           <line>82</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Korean_English.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
