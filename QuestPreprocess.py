@@ -1,6 +1,7 @@
 from library import usecsv
 import numpy as np
 import os, re
+from scipy import stats
 
 os.chdir(r'C:\Users\wblee\PycharmProjects\study\manuscript')
 
